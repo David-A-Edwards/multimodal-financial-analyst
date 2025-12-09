@@ -1,0 +1,8 @@
+streamlit
+llama-index
+llama-parse
+llama-index-multi-modal-llms-gemini
+llama-index-vector-stores-qdrant
+llama-index-embeddings-clip
+qdrant-client
+python-dotenv
